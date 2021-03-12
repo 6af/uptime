@@ -1,10 +1,10 @@
 owner: 6af # GitHub username
 repo: uptime # GitHub repository name
-sites: 1 # List of endpoints to track
+sites: # List of endpoints to track
   - name: 6afs website 
     url: https://devloper6af.gq/
 assignees: # Users to assign downtime issues (optional)
   - AnandChowdhary
 status-website: # Status website (optional)
-  cname: devloper6af.gq/uptime # Custom domain CNAME
+  cname: uptime.devloper6af.gq # Custom domain CNAME
   name: Uptime # Status website title
